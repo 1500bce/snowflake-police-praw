@@ -6,7 +6,7 @@ def connect_to_db():
         port=3306,
         db='praw_db',
         user='praw_sys',
-        password='fzvgtgjZFjir6DVt'
+        password='xxx'
     )
 
     return connection
